@@ -1369,7 +1369,7 @@ header .logo a {
     left: 60px;
   }
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 100px) {
   header .top-bar {
     left: 50px;
   }
